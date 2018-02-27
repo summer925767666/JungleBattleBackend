@@ -1,0 +1,13 @@
+F:\MyProject\VS\C#服务器\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.exe
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\Common.dll
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\Common.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\obj\Debug\游戏服务器端.csprojResolveAssemblyReference.cache
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\obj\Debug\游戏服务器端.exe
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\obj\Debug\游戏服务器端.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.exe.manifest
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\bin\Debug\游戏服务器端.application
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\obj\Debug\游戏服务器端.exe.manifest
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\游戏服务器端\obj\Debug\游戏服务器端.application

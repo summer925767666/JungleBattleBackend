@@ -1,0 +1,12 @@
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.exe.config
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.exe
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.pdb
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.csprojResolveAssemblyReference.cache
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.exe
+F:\MyProject\VS\C#服务器\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.exe.config
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.exe
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.exe
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\bin\Debug\MySql数据库操作.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\MySql数据库操作\obj\Debug\MySql数据库操作.csprojResolveAssemblyReference.cache

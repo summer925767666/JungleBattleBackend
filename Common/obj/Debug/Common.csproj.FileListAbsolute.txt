@@ -1,0 +1,7 @@
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\Common\bin\Debug\Common.dll
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\Common\bin\Debug\Common.pdb
+F:\MyProject\Both\TcpServer2018.11\GameClient\Assets\Plugins\Common.dll
+F:\MyProject\Both\TcpServer2018.11\GameClient\Assets\Plugins\Common.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\Common\obj\Debug\Common.dll
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\Common\obj\Debug\Common.pdb
+F:\MyProject\Both\TcpServer2018.11\Socket服务器\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
