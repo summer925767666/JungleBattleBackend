@@ -5,7 +5,7 @@ namespace 游戏服务器端
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Server server = new Server("127.0.0.1", 6688);
             server.Start();
