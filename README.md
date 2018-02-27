@@ -1,9 +1,14 @@
 # JungleBattleBackend
 
-丛林战争服务端
+1、服务器介绍
+ 
+使用c#底层API,基于TCP/IP协议，使用socket通信
+ 
+2、开发工具
 
-使用c#底层API编写
+vs 2013
 
-基于TCP/IP
-
-使用Socket编写
+3、框架
+ 
+.NET Framwork 4.5
+ 
